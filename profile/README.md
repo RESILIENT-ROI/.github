@@ -10,6 +10,7 @@
 
 - One BPT instance is a production line for one product
 - Product Factory has one or more production  lines
+- BPT-APP , for a given customer and given product create the minimal repository based on the DBJ Method BPT concept.
 
 
 ---
