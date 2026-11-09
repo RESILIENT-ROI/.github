@@ -1,8 +1,10 @@
 
-## **PIONEER** is the name for the imaginary customer
+## **EDUCATION-CENTER** 
 
-- One PIONEER has one EDUCATION-CENTER
+- One Customer (DBJ Method Adopter) has one EDUCATION-CENTER
   - The repository of artifacts, where factory workers train for DBJ CMM L3 (initial) , L4 and L5 (final) levels
+ 
+**PIONEER** is the name for the imaginary customer
 
 ## **BPT-APP** is bpt instance repository generator
 
