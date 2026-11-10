@@ -1,6 +1,8 @@
 
 
-## **BPT harness**, for guiding teams throughout the whole product lifecycle
+## **BPT harness**
+
+### Guiding the teams throughout the whole product lifecycle
 
 - One BPT instance is a production line for one product
 - Product Factory has one or more production  lines
