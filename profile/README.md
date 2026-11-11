@@ -4,16 +4,6 @@
 
 ### Guiding the teams throughout the whole product lifecycle
 
-- One BPT instance is a production line for one product
-- Product Factory has one or more production  lines
-- BPT Harnes, creates the BPT repository or repositories, based on the DBJ Method BPT concept.
-  - And based on a product description
-    - After which it continuously guides the teams and enforces a small set of simple rules, producing an efficient BPT-based product line.
-
-- **BPT Harness** is connected to an LLM API of choice
-  - Initially, it is Claude
-    - Implemented as a CLI
-      - For Windows and macOS
 
 
 ## **EDUCATION-CENTER** 
