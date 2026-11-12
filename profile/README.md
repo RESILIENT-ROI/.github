@@ -1,5 +1,5 @@
 
-## Guiding organisations throughout the whole product lifecycle
+## Guiding organisations throughout the truly whole lifecycle
 
 * Seas are rough; AI currents are fast and strong
 * Architecture is context. For humans.
