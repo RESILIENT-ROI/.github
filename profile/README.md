@@ -1,22 +1,13 @@
 
+## Guiding organisations throughout the whole product lifecycle
 
-## **BPT harness**
-
-### Guiding the teams throughout the whole product lifecycle
-
-
-
-## **EDUCATION-CENTER** 
-
-- One Customer (DBJ Method Adopter) has one EDUCATION-CENTER
-  - The repository of artefacts, where factory workers train for DBJ CMM L3 (initial), L4 and L5 (final) levels
- 
-## **PIONEER** is the name for the imaginary customer
+* Seas are rough; AI currents are fast and strong
+* Architecture is context. For humans.
 
 ---
 
-<img src="rroi_splash.png" width="5%" />
+<img src="rroi_splash.png" width="25%" />
 
-**Work is measured by what it returns**
+**Measure AI by what it returns**
 
 © Resilient ROI Ltd. | London, UK
