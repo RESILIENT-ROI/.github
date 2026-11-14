@@ -1,5 +1,5 @@
 
-## Guiding the organisations through the truth
+## AI is the true mirror of you
 
 * Seas are rough; AI currents are fast and strong
 * Architecture is context. For humans.
