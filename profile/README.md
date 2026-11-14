@@ -1,5 +1,5 @@
 
-## Guiding organisations throughout the truly whole lifecycle
+## Guiding the organisations through the truth
 
 * Seas are rough; AI currents are fast and strong
 * Architecture is context. For humans.
